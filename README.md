@@ -1,1 +1,1 @@
-# ClassIQ-Website
+# IQ-Website
